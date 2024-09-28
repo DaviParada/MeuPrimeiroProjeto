@@ -1,2 +1,2 @@
 # MeuPrimeiroProjeto
-Desafio Trilha Git
+Desafio Trilha Git, realizando o o primeiro desafio.
